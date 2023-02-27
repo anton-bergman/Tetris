@@ -1,0 +1,24 @@
+{
+  "highScoreList": [
+    {
+      "name": "theBeast",
+      "points": 2200
+    },
+    {
+      "name": "Alice",
+      "points": 700
+    },
+    {
+      "name": "Anton",
+      "points": 0
+    },
+    {
+      "name": "hej",
+      "points": 0
+    },
+    {
+      "name": "Anton",
+      "points": 0
+    }
+  ]
+}
